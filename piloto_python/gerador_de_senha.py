@@ -30,3 +30,5 @@ if __name__ == "__main__":
             
         except ValueError:
             print('Digite um número inteiro')
+
+#Um gerador de senha simples. Coloque a quantidade de caracteres que sua senha vai ter,e ela será gerada rapidamente. 
