@@ -9,6 +9,8 @@ print('Esses foram os numeros sorteados :')
 
 print('{0} , {1} , {2}'.format(n1 , n2 , n3))
 
+#código bem simples, vai sortear 3 números entre 1 a 100.
+
 
 
 
