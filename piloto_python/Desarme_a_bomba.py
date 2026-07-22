@@ -29,3 +29,5 @@ for c in range(9, 0, -1):
         pass
 else:
     print('O tempo acabou')
+
+#Não deixe a bomba explodir💣 
