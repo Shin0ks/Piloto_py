@@ -1,9 +1,7 @@
 #entrada de dados 
-
 n1 = int(input('Digite um numero'))
 
 #Calculadora
-
 print (f'{n1}  x  1   = {n1  * 1}')
 print (f'{n1}  x  2   = {n1  * 2}')
 print (f'{n1}  x  3   = {n1  * 3}')
@@ -14,3 +12,5 @@ print (f'{n1}  x  7   = {n1  * 7}')
 print (f'{n1}  x  8   = {n1  * 8}')
 print (f'{n1}  x  9   = {n1  *  9}')
 print (f'{n1}  x  10 = {n1  * 10}')
+
+#Tabuada simples, coloque um valor e sairá os resultados da multiplicação de 1 a 10.
