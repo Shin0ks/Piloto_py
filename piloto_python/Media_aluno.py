@@ -24,9 +24,9 @@ else:
     situacao = 'Aprovado'
     motivo = 'requisitos atingidos'
     
-#Motivos 
-
+#Motivos e condições 
 print(f'Aluno: {nome}')
-
 print(f'Média: {media:.1f} | Frequência: {freq}% |')
 print(f'Situação: |{situacao}| ({motivo})')
+
+#Um projeto clássico de média de alunos, para descobrir se o aluno passou ou não. 
